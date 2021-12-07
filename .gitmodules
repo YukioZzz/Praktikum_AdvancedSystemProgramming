@@ -1,0 +1,24 @@
+[submodule "sys-prog-task1-syscalls"]
+	path = sys-prog-task1-syscalls
+	url = git@github.com:YukioZzz/sys-prog-task1-syscalls.git
+[submodule "sys-prog-task2-fileio"]
+	path = sys-prog-task2-fileio
+	url = git@github.com:YukioZzz/sys-prog-task2-fileio.git
+[submodule "sys-prog-task3-processes"]
+	path = sys-prog-task3-processes
+	url = git@github.com:YukioZzz/sys-prog-task3-processes.git
+[submodule "sys-prog-task4-concurrency"]
+	path = sys-prog-task4-concurrency
+	url = git@github.com:YukioZzz/sys-prog-task4-concurrency.git
+[submodule "sys-prog-task5-memory"]
+	path = sys-prog-task5-memory
+	url = git@github.com:YukioZzz/sys-prog-task5-memory.git
+[submodule "sys-prog-task6-sockets"]
+	path = sys-prog-task6-sockets
+	url = git@github.com:YukioZzz/sys-prog-task6-sockets.git
+[submodule "sys-prog-task7-performance"]
+	path = sys-prog-task7-performance
+	url = git@github.com:YukioZzz/sys-prog-task7-performance.git
+[submodule "sys-prog-task8-container"]
+	path = sys-prog-task8-container
+	url = git@github.com:YukioZzz/sys-prog-task8-container.git
